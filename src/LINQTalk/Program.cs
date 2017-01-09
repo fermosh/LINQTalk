@@ -6,16 +6,6 @@ class Program
 {
     const string NOT = "NOT";
     private delegate bool LegalAgeChecker( Person person );
-
-    private static bool AmericanLegalAge(Person person)
-    {
-        return person.Age >= 21;
-    }
-    private static bool MexicanLegalAge(Person person)
-    {
-        return person.Age >= 18;
-    }
-
     
     static void Main(string[] args)
     {
@@ -24,6 +14,9 @@ class Program
             new Person { Name = "Juan", Age = 22 },
             new Person { Name = "Rodrigo", Age = 15 }
         };
+
+        LegalAgeChecker AmericanLegalAge = person => person.Age >= 21;
+        LegalAgeChecker MexicanLegalAge = person => person.Age >= 18;
 
         DisplayLegalAges("Mexico", people, MexicanLegalAge);
         Console.ReadLine();
