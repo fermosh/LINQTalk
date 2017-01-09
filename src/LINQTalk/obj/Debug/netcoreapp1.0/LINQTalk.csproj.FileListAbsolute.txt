@@ -1,0 +1,6 @@
+C:\Users\Oscar_Legorreta\Git\LINQTalk\src\LINQTalk\bin\Debug\netcoreapp1.0\LINQTalk.dll
+C:\Users\Oscar_Legorreta\Git\LINQTalk\src\LINQTalk\bin\Debug\netcoreapp1.0\LINQTalk.pdb
+C:\Users\Oscar_Legorreta\Git\LINQTalk\src\LINQTalk\obj\Debug\netcoreapp1.0\LINQTalk.csprojResolveAssemblyReference.cache
+C:\Users\Oscar_Legorreta\Git\LINQTalk\src\LINQTalk\obj\Debug\netcoreapp1.0\LINQTalk.AssemblyInfo.cs
+C:\Users\Oscar_Legorreta\Git\LINQTalk\src\LINQTalk\obj\Debug\netcoreapp1.0\LINQTalk.dll
+C:\Users\Oscar_Legorreta\Git\LINQTalk\src\LINQTalk\obj\Debug\netcoreapp1.0\LINQTalk.pdb
